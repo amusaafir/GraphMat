@@ -1,5 +1,5 @@
-MPICXX=mpiicpc
-CXX=icpc
+MPICXX=mpic++
+CXX=g++
 
 SRCDIR=./src
 INCLUDEDIR=./include
